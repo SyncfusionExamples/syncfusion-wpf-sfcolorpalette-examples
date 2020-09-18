@@ -5,5 +5,6 @@ This repository contains the samples that demonstrate the functionalities of SfC
  <tr>
   <td><a href="Samples/DataBinding">Selected Color Binding</a></td>
   <td><a href="Samples/Appearance">Appearance</a></td>
+  <td><a href="Samples/Themes">Themes</a></td>
  </tr>
 </table>
